@@ -4,7 +4,7 @@
 
 
 conda create -n crypto_pred python=3.9
-conda activate crypto_pred
 
+conda activate crypto_pred
 
 pip install pyarrow==9.0.0
