@@ -1,0 +1,3 @@
+,estrategy,optimizer,loss,janela_de_tempo,janela_de_predicao,epochs,batch_size,index_parameter,file,len_database,history,mae_val
+0,simple,adam,binary_crossentropy,60,10,2,32,0,ADAUSDT-5m-data.csv,381784,"{'loss': [0.2293005883693695, 0.22710208594799042], 'val_loss': [0.22658513486385345, 0.22582918405532837]}",0.2034459593568563
+1,simple,adam,binary_crossentropy,60,10,2,32,0,ALGOUSDT-5m-data.csv,258272,"{'loss': [0.41853973269462585, 0.4176480770111084], 'val_loss': [0.41684025526046753, 0.41653555631637573]}",0.2312286041863035

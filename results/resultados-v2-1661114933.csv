@@ -1,0 +1,2 @@
+,estrategy,optimizer,loss,janela_de_tempo,janela_de_predicao,epochs,batch_size,features,index_parameter,file,len_database,history,mae_val
+0,simple,adam,binary_crossentropy,30,10,2,32,['close'],0,ADAUSDT-5m-data.csv,1000,"{'loss': [0.7450201511383057, 0.6188220381736755], 'accuracy': [0.0024305556435137987, 0.0031250000465661287], 'val_loss': [0.65055912733078, 0.6284806132316589], 'val_accuracy': [0.0, 0.0]}",0.25809655480984833

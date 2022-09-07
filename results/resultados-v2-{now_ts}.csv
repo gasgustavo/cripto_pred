@@ -1,0 +1,2 @@
+,estrategy,optimizer,loss,janela_de_tempo,janela_de_predicao,epochs,batch_size
+0,simple,adam,binary_crossentropy,60,10,1,32
